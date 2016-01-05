@@ -25,7 +25,7 @@ Sample Response
         "group_ids" : [
             "san francisco",
             "new york",
-            "chigaco"
+            "chicago"
         ]
     }
 
